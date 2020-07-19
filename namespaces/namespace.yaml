@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: namespaces
-source: namespaces/namespace.yaml
-metadata.name: namespaces
-group:
-version: v1
-kind: Namespace
